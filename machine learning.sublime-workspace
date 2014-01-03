@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Theta",
+				"Theta2_grad"
+			],
+			[
+				"big",
+				"bigDelta1"
+			],
+			[
+				"Theta1",
+				"Theta1_grad"
+			],
+			[
+				"regularization",
+				"regularizationFactor"
+			],
+			[
+				"temp",
+				"tempThetaTwo"
+			],
+			[
+				"tempTe",
+				"tempThetaOne"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/machine learning.sublime-project",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/submit.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/checkNNGradients.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/ex4.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/nnCostFunction.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/computeNumericalGradient.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/oneVsAll.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/ex3.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/ex3_nn.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/lrCostFunction.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/sigmoidGradient.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/predict.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/randInitializeWeights.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/costFunctionReg.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/ex2.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/predict.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/sigmoid.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex4/sigmoid.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex3/predictOneVsAll.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/ex2_reg.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/predict.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/ex2data2.txt",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/costFunction.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/computeCost.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/ex2data1.txt",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/ex1data2.txt",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/mapFeature.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/gradientDescentMulti.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/plotDecisionBoundary.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/gradientDescent.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/sigmoid.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/computeCostMulti.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/ex1_multi.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/ex1.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/featureNormalize.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/ex1data1.txt",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/plotData.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/normalEqn.m",
+		"/C/Octave/3.2.4_gcc-4.4.0/share/octave/site/m/startup/octaverc",
+		"/C/Users/douglaswaugh/Downloads/Octave3.6.4_gcc4.6.2_20130408/Octave3.6.4_gcc4.6.2/share/octave/site/m/startup/octaverc",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning/mlclass-ex1/submit.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex2/plotData.m",
+		"/C/Octave/Octave3.6.4_gcc4.6.2/share/octave/site/m/startup/octaverc",
+		"/C/Users/douglaswaugh/Downloads/Octave3.6.4_gcc4.6.2_20130408/Octave3.6.4_gcc4.6.2/share/octave/3.6.4/m/startup/octaverc",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning 2/mlclass-ex1/warmUpExercise.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning/mlclass-ex1/ex1.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning/mlclass-ex1/warmUpExercise.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning/mlclass-ex1/gradientDescent.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning/mlclass-ex1/computeCost.m",
+		"/C/Users/douglaswaugh/Documents/Coursera/Machine Learning/mlclass-ex1/plotData.m",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/players/20131031204403/9.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/all/playerStats/20130819192527/214.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/players/20131023211933/209.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/all/playerStats/20130819192527/3.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/all/playerStats/20131031084010/557.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/players/20131023211933/170.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/players/20131023211933/298.json",
+		"/C/Users/douglaswaugh/Documents/Apps/fantasy football/data/players/20131023211933/214.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
